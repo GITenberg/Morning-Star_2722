@@ -1,5 +1,8 @@
 _repo: Morning-Star_2722
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Haggard, H. Rider (Henry Rider)
@@ -15,6 +18,8 @@ description: The exotic land of Egypt was full of spirits, magic, romance, and a
   for Haggard. This early (1910) blend of history and fantasy sweeps the reader away
   with Prince Ramses on his quest to win the pharaoh's throne--and the hand of his
   beloved.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2722#Morning-Star
 gutenberg_issued: '2006-04-04'
 gutenberg_type: Text
 identifiers:
